@@ -33,3 +33,11 @@ Once training is complete, the model is evaluated using the test set. This step 
 Finally, the model is used for inference. This involves passing new, unseen images into the trained network and obtaining predicted class labels. The output is usually a probability distribution across all possible classes, from which the most likely label is selected.
 
 Overall, this deep learning project encapsulates the essential components of a supervised learning pipeline using TensorFlow. It demonstrates how raw image data can be transformed into actionable predictions through careful preprocessing, thoughtful model design, and iterative training. The modularity and scalability of TensorFlow make it an ideal choice for such tasks, allowing for experimentation with different architectures, hyperparameters, and datasets. This project not only reinforces foundational concepts in neural networks but also provides practical experience in deploying machine learning models for real-world applications.
+
+# OUTPUT:
+
+<img width="1982" height="1064" alt="Image" src="https://github.com/user-attachments/assets/8860d789-92ea-46d0-b699-f034fa7874d1" />
+
+<img width="2378" height="992" alt="Image" src="https://github.com/user-attachments/assets/71e15d79-9486-44d8-9f22-8cfc6e01966f" />
+
+<img width="1590" height="964" alt="Image" src="https://github.com/user-attachments/assets/0a686765-3b51-401c-9284-05b6c9a26ac4" />
